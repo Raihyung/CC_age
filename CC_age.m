@@ -172,6 +172,6 @@ set(gca, 'XTick', 1:no_nets, ...                             % Change the axes t
 
 
 %% References
-% Finn, E.S. et al. Functional connectome fingerprinting: identifying individuals using patterns of brain connectivity. Nat. Neurosci. 18, 1664?1671 (2015).
+% Finn, E.S. et al. Functional connectome fingerprinting: identifying individuals using patterns of brain connectivity. Nat. Neurosci. 18, 1664-1671 (2015).
 % Shen, X. et al. Using connectome-based predictive modeling to predict individual behavior from brain connectivity. Nat. Protoc. 12(3), 506-518 (2017). 
 % Power, J.D. et al. Functional network organization of the human brain. Neuron 72, 665-678 (2011).
